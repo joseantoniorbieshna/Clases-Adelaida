@@ -1,7 +1,0 @@
-C:\Users\Administrador\source\repos\EjercicioPersona\EjercicioPersona\bin\Debug\EjercicioPersona.exe.config
-C:\Users\Administrador\source\repos\EjercicioPersona\EjercicioPersona\bin\Debug\EjercicioPersona.exe
-C:\Users\Administrador\source\repos\EjercicioPersona\EjercicioPersona\bin\Debug\EjercicioPersona.pdb
-C:\Users\Administrador\source\repos\EjercicioPersona\EjercicioPersona\obj\Debug\EjercicioPersona.csproj.AssemblyReference.cache
-C:\Users\Administrador\source\repos\EjercicioPersona\EjercicioPersona\obj\Debug\EjercicioPersona.csproj.CoreCompileInputs.cache
-C:\Users\Administrador\source\repos\EjercicioPersona\EjercicioPersona\obj\Debug\EjercicioPersona.exe
-C:\Users\Administrador\source\repos\EjercicioPersona\EjercicioPersona\obj\Debug\EjercicioPersona.pdb
